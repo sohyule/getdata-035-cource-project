@@ -5,7 +5,8 @@ The raw data came from 30 **subjects** who performed six **activities**
 These signals were (through preprocessing, filtering, sampling etc) seperated into **body acceleration** and **gravity**.
 The domains for calculation were **time** and **frequency**. From these, many other variables were estimated but for the current data, only the measurements of **mean** and **standard** deviation of each variable were selected. All the signal variables are normalized and bounded within [-1,1]
 
-Thus, there are 6 categories that denote the variables.
+<br><br>
+Thus, there are 6 categories that describe the variables.
 
 ###Categories
 ```
