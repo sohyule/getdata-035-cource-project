@@ -18,6 +18,7 @@ Thus, there are 6 categories that describe the variables.
 * signal, Jerk
 * 3-axial (XYZ), magnitude (Mag)
 * mean or sd
+
 --------------------------------------------
 --------------------------------------------  
 
