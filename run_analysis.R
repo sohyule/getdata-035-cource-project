@@ -74,6 +74,7 @@ names(meanData)[mcols]
 
 # separate meanData into X,Y,Z and Mag columns data
 # change the names so they can be rbind'ed later
+# don't rid of the headers, keep them for safety -- right cols rbind'ded
 # and add a column for axis
 
 # X
