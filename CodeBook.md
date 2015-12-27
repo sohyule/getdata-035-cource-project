@@ -24,7 +24,7 @@ Thus, there are 6 categories that describe the variables.
 
 
 ###Variables  
-
+```
 1. subject			: subject number (range 1 to 30)
 2. activity			: 6 activities
 3. axis				: X, Y, Z or Magnitude
@@ -45,6 +45,7 @@ Thus, there are 6 categories that describe the variables.
 18. frequency_BodyGyro_mean	: frequency domain,body signal from gyroscope, mean
 19. frequency_BodyGyro_std	: frequency domain,body signal from gyroscope, std  
 
+```
 --------------------------------------------
 --------------------------------------------  
 
