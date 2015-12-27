@@ -23,8 +23,8 @@ Thus, there are 6 categories that describe the variables.
 --------------------------------------------  
 
 
-###Variables
-```
+###Variables  
+
      1	subject				: subject number (range 1 to 30)
      2	activity			: 6 activities
      3	axis				: X, Y, Z or Magnitude
@@ -43,7 +43,8 @@ Thus, there are 6 categories that describe the variables.
     16	frequency_BodyAccJerk_mean	: frequency domain,body jerk signal from accelometer, mean
     17	frequency_BodyAccJerk_std	: frequency domain,body jerk signal from accelometer, std
     18	frequency_BodyGyro_mean		: frequency domain,body signal from gyroscope, mean
-    19	frequency_BodyGyro_std		: frequency domain,body signal from gyroscope, std
-```
+    19	frequency_BodyGyro_std		: frequency domain,body signal from gyroscope, std  
 
+--------------------------------------------
+--------------------------------------------  
 
