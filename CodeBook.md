@@ -3,7 +3,9 @@ The raw data came from 30 **subjects** who performed six **activities**
 (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone.
 **3-axial** linear acceleration and 3-axial angular velocity were captured from the phone's **accelerometer** and **gyroscope**.
 These signals were (through preprocessing, filtering, sampling etc) seperated into **body acceleration** and **gravity**.
-The domains for calculation were **time** and **frequency**. From these, many other variables were estimated but for the current data, only the measurements of **mean** and **standard** deviation of each variable were selected. All the signal variables are normalized and bounded within [-1,1]
+The domains for calculation were **time** and **frequency**.  
+From these, many other variables were estimated but for the current data, only the measurements of **mean** and **standard** deviation of each variable were selected. The means for all the selected variables were computed for each subject, each activity and each axis plus magnitude. Every row show such means.
+All the signal variables are normalized and bounded within [-1,1]
 
 <br><br>
 Thus, there are 6 categories that describe the variables.
