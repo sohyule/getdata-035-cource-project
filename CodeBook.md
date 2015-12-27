@@ -8,16 +8,19 @@ The domains for calculation were **time** and **frequency**. From these, many ot
 <br><br>
 Thus, there are 6 categories that describe the variables.
 
+--------------------------------------------
+--------------------------------------------  
 ###Categories
-```
+
 * time or frequency
 * Body or Gravity
 * acceleromenter (Acc) or gyroscope (Gyro)
 * signal, Jerk
 * 3-axial (XYZ), magnitude (Mag)
 * mean or sd
+--------------------------------------------
+--------------------------------------------  
 
-```
 
 ###Variables
 ```
